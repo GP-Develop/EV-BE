@@ -18,4 +18,4 @@ deploy:
   api_key: $API_TOKEN
   app: evo-iq
   on:
-    repo: 404Stud-io/evoIQ-BE
+    repo: GP-Develop/EV-BE
