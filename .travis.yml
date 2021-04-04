@@ -9,7 +9,6 @@ notifications:
   email:
     reciepents:
       - me@carlosvldz.com
-      - psialfredomtz@gmail.com
     on_success: always
     on_failure: always
 deploy:
@@ -17,6 +16,6 @@ deploy:
   skip-cleanup: true
   keep-history: true
   api_key: $API_TOKEN
-  app: server-Evo
+  app: evo-iq
   on:
     repo: 404Stud-io/evoIQ-BE
