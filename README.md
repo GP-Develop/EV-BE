@@ -15,8 +15,6 @@
 - mongoose
 - bcryptjs
 - nodemailer
-- socket.io
-- moment
 
 ### Dev Dependencies 👩🏾‍💻
 - eslint
