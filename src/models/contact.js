@@ -14,10 +14,6 @@ const contactSchema = new Schema({
         required: true,
         trim: true
     },
-    subject: {
-        type: String,
-        required: true
-    },
     content: {
         type: String,
         required: true
